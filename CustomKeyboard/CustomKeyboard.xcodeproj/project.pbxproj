@@ -7,7 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; settings = {ASSET_TAGS = (); }; };
+		0FE566781C73121400DBC7C8 /* superman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566771C73121400DBC7C8 /* superman.jpg */; };
+		0FE5667A1C7315E600DBC7C8 /* DC Logos in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566791C7315E600DBC7C8 /* DC Logos */; };
+		0FE5668D1C7416EA00DBC7C8 /* Aquaman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE5667F1C7416EA00DBC7C8 /* Aquaman.jpg */; };
+		0FE5668E1C7416EA00DBC7C8 /* Batman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566801C7416EA00DBC7C8 /* Batman.jpg */; };
+		0FE5668F1C7416EA00DBC7C8 /* Captain Marvel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566811C7416EA00DBC7C8 /* Captain Marvel.jpg */; };
+		0FE566901C7416EA00DBC7C8 /* Cyborg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566821C7416EA00DBC7C8 /* Cyborg.jpg */; };
+		0FE566911C7416EA00DBC7C8 /* Flash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566831C7416EA00DBC7C8 /* Flash.jpg */; };
+		0FE566921C7416EA00DBC7C8 /* Green Arrow.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566841C7416EA00DBC7C8 /* Green Arrow.jpeg */; };
+		0FE566931C7416EA00DBC7C8 /* Green Lantern.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566851C7416EA00DBC7C8 /* Green Lantern.jpg */; };
+		0FE566941C7416EA00DBC7C8 /* Hawkgirl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566861C7416EA00DBC7C8 /* Hawkgirl.jpg */; };
+		0FE566951C7416EA00DBC7C8 /* martian manhunter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566871C7416EA00DBC7C8 /* martian manhunter.jpg */; };
+		0FE566961C7416EA00DBC7C8 /* Nightwing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566881C7416EA00DBC7C8 /* Nightwing.jpg */; };
+		0FE566971C7416EA00DBC7C8 /* Robin.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE566891C7416EA00DBC7C8 /* Robin.jpeg */; };
+		0FE566981C7416EA00DBC7C8 /* Supergirl.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE5668A1C7416EA00DBC7C8 /* Supergirl.jpeg */; };
+		0FE566991C7416EA00DBC7C8 /* Superman.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE5668B1C7416EA00DBC7C8 /* Superman.png */; };
+		0FE5669A1C7416EA00DBC7C8 /* Wonder Woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FE5668C1C7416EA00DBC7C8 /* Wonder Woman.jpg */; };
+		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; };
 		3AAA639A1BA9263900E3822E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63991BA9263900E3822E /* AppDelegate.swift */; };
 		3AAA639C1BA9263900E3822E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA639B1BA9263900E3822E /* ViewController.swift */; };
 		3AAA639F1BA9263900E3822E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA639D1BA9263900E3822E /* Main.storyboard */; };
@@ -42,6 +58,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0FE566771C73121400DBC7C8 /* superman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = superman.jpg; sourceTree = "<group>"; };
+		0FE566791C7315E600DBC7C8 /* DC Logos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "DC Logos"; sourceTree = "<group>"; };
+		0FE5667F1C7416EA00DBC7C8 /* Aquaman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aquaman.jpg; sourceTree = "<group>"; };
+		0FE566801C7416EA00DBC7C8 /* Batman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Batman.jpg; sourceTree = "<group>"; };
+		0FE566811C7416EA00DBC7C8 /* Captain Marvel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Captain Marvel.jpg"; sourceTree = "<group>"; };
+		0FE566821C7416EA00DBC7C8 /* Cyborg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cyborg.jpg; sourceTree = "<group>"; };
+		0FE566831C7416EA00DBC7C8 /* Flash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Flash.jpg; sourceTree = "<group>"; };
+		0FE566841C7416EA00DBC7C8 /* Green Arrow.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Green Arrow.jpeg"; sourceTree = "<group>"; };
+		0FE566851C7416EA00DBC7C8 /* Green Lantern.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Green Lantern.jpg"; sourceTree = "<group>"; };
+		0FE566861C7416EA00DBC7C8 /* Hawkgirl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hawkgirl.jpg; sourceTree = "<group>"; };
+		0FE566871C7416EA00DBC7C8 /* martian manhunter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "martian manhunter.jpg"; sourceTree = "<group>"; };
+		0FE566881C7416EA00DBC7C8 /* Nightwing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nightwing.jpg; sourceTree = "<group>"; };
+		0FE566891C7416EA00DBC7C8 /* Robin.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Robin.jpeg; sourceTree = "<group>"; };
+		0FE5668A1C7416EA00DBC7C8 /* Supergirl.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Supergirl.jpeg; sourceTree = "<group>"; };
+		0FE5668B1C7416EA00DBC7C8 /* Superman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Superman.png; sourceTree = "<group>"; };
+		0FE5668C1C7416EA00DBC7C8 /* Wonder Woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wonder Woman.jpg"; sourceTree = "<group>"; };
 		3A5554491BA930D800AF502F /* Keyboard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Keyboard.xib; sourceTree = "<group>"; };
 		3AAA63961BA9263900E3822E /* CustomKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAA63991BA9263900E3822E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +139,22 @@
 		3AAA63B11BA9283500E3822E /* CalKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				0FE5667F1C7416EA00DBC7C8 /* Aquaman.jpg */,
+				0FE566801C7416EA00DBC7C8 /* Batman.jpg */,
+				0FE566811C7416EA00DBC7C8 /* Captain Marvel.jpg */,
+				0FE566821C7416EA00DBC7C8 /* Cyborg.jpg */,
+				0FE566831C7416EA00DBC7C8 /* Flash.jpg */,
+				0FE566841C7416EA00DBC7C8 /* Green Arrow.jpeg */,
+				0FE566851C7416EA00DBC7C8 /* Green Lantern.jpg */,
+				0FE566861C7416EA00DBC7C8 /* Hawkgirl.jpg */,
+				0FE566871C7416EA00DBC7C8 /* martian manhunter.jpg */,
+				0FE566881C7416EA00DBC7C8 /* Nightwing.jpg */,
+				0FE566891C7416EA00DBC7C8 /* Robin.jpeg */,
+				0FE5668A1C7416EA00DBC7C8 /* Supergirl.jpeg */,
+				0FE5668B1C7416EA00DBC7C8 /* Superman.png */,
+				0FE5668C1C7416EA00DBC7C8 /* Wonder Woman.jpg */,
+				0FE566791C7315E600DBC7C8 /* DC Logos */,
+				0FE566771C73121400DBC7C8 /* superman.jpg */,
 				3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */,
 				3A5554491BA930D800AF502F /* Keyboard.xib */,
 				3AAA63B41BA9283500E3822E /* Info.plist */,
@@ -204,7 +252,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FE566921C7416EA00DBC7C8 /* Green Arrow.jpeg in Resources */,
+				0FE566911C7416EA00DBC7C8 /* Flash.jpg in Resources */,
+				0FE566991C7416EA00DBC7C8 /* Superman.png in Resources */,
+				0FE5668F1C7416EA00DBC7C8 /* Captain Marvel.jpg in Resources */,
+				0FE5667A1C7315E600DBC7C8 /* DC Logos in Resources */,
+				0FE566961C7416EA00DBC7C8 /* Nightwing.jpg in Resources */,
+				0FE566781C73121400DBC7C8 /* superman.jpg in Resources */,
+				0FE5669A1C7416EA00DBC7C8 /* Wonder Woman.jpg in Resources */,
+				0FE566931C7416EA00DBC7C8 /* Green Lantern.jpg in Resources */,
+				0FE5668E1C7416EA00DBC7C8 /* Batman.jpg in Resources */,
+				0FE566981C7416EA00DBC7C8 /* Supergirl.jpeg in Resources */,
+				0FE566971C7416EA00DBC7C8 /* Robin.jpeg in Resources */,
+				0FE566901C7416EA00DBC7C8 /* Cyborg.jpg in Resources */,
+				0FE5668D1C7416EA00DBC7C8 /* Aquaman.jpg in Resources */,
+				0FE566951C7416EA00DBC7C8 /* martian manhunter.jpg in Resources */,
 				3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */,
+				0FE566941C7416EA00DBC7C8 /* Hawkgirl.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
